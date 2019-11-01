@@ -1,0 +1,46 @@
+.bentuk{
+	width: 310px;
+	background: #252525;
+	margin: 100px auto;
+	padding: 10px 20px 50px 20px;
+	border-radius: 5px;
+	box-shadow: 2px 3px 2px 1px #000;
+	text-align: center;
+}
+.kepala{
+	text-align: center;
+	color: #fff;
+	text-shadow: 2px 3px 2px #000;
+}
+.angka{
+	width: 300px;
+	margin: 5px;
+	border: none;
+	font-size: 10pt;
+	border-radius: 5px;
+	padding: 10px;
+}
+.proses{
+	width: 318px;
+	margin: 5px;
+	border: none;
+	font-size: 10pt;
+	border-radius: 5px;
+	padding: 10px;
+}
+.tombol{
+	background: #35e2db;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	border-bottom: none;
+	border-radius: 5px;
+	margin-left: 4px;
+	padding: 5px 20px;
+	color: #fff;
+	width: 318px;
+	text-shadow: 2px 3px 2px #000;
+	font-size: 15pt;
+	border-bottom: 4px solid #35e2db;
+
+}
